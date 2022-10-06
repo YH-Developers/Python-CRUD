@@ -2,11 +2,11 @@
   <qresource prefix="Progress Bar">
     <file>C:/Users/Administrator/Downloads/WhatsApp Image 2022-10-06 at 02.55.46.jpg</file>
   </qresource>
-  <qresource prefix="Reset Button">
-    <file>C:/Users/Administrator/Downloads/Reset Button.jpg</file>
-  </qresource>
   <qresource prefix="Robot">
     <file>C:/Users/Administrator/Downloads/Robot.jpg</file>
+  </qresource>
+  <qresource prefix="Description">
+    <file>C:/Users/Administrator/Downloads/Description.jpg</file>
   </qresource>
   <qresource prefix="Second Party">
     <file>C:/Users/Administrator/Downloads/Second Party.jpg</file>

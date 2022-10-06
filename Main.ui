@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>1192</width>
-    <height>1365</height>
+    <height>1585</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -292,7 +292,7 @@
       <x>1170</x>
       <y>-1</y>
       <width>20</width>
-      <height>791</height>
+      <height>1571</height>
      </rect>
     </property>
     <property name="orientation">
@@ -346,6 +346,48 @@
       <width>251</width>
       <height>31</height>
      </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Reset">
+    <property name="geometry">
+     <rect>
+      <x>820</x>
+      <y>1240</y>
+      <width>75</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Reset</string>
+    </property>
+    <property name="checkable">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="Next">
+    <property name="geometry">
+     <rect>
+      <x>930</x>
+      <y>1240</y>
+      <width>75</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Next</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_13">
+    <property name="geometry">
+     <rect>
+      <x>-80</x>
+      <y>1280</y>
+      <width>1251</width>
+      <height>311</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;img src=&quot;:/Description/C:/Users/Administrator/Downloads/Description.jpg&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
    </widget>
   </widget>
