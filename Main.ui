@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>1194</width>
-    <height>983</height>
+    <width>1192</width>
+    <height>1365</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -105,7 +105,7 @@
      <bool>true</bool>
     </property>
     <property name="currentText">
-     <string>Select District</string>
+     <string/>
     </property>
     <property name="currentIndex">
      <number>-1</number>
@@ -127,7 +127,7 @@
      <bool>true</bool>
     </property>
     <property name="currentText">
-     <string>Select Tehsil</string>
+     <string/>
     </property>
     <property name="modelColumn">
      <number>0</number>
@@ -207,7 +207,7 @@
      <string>Agent Name</string>
     </property>
    </widget>
-   <widget class="QPlainTextEdit" name="plainTextEdit">
+   <widget class="QPlainTextEdit" name="AgentName">
     <property name="geometry">
      <rect>
       <x>60</x>
@@ -217,7 +217,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QPlainTextEdit" name="plainTextEdit_2">
+   <widget class="QPlainTextEdit" name="AgentCNIC">
     <property name="geometry">
      <rect>
       <x>430</x>
@@ -227,7 +227,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QPlainTextEdit" name="plainTextEdit_3">
+   <widget class="QPlainTextEdit" name="AgentContact">
     <property name="geometry">
      <rect>
       <x>60</x>
@@ -237,7 +237,7 @@
      </rect>
     </property>
    </widget>
-   <widget class="QPlainTextEdit" name="plainTextEdit_4">
+   <widget class="QPlainTextEdit" name="AgentEmail">
     <property name="geometry">
      <rect>
       <x>430</x>
@@ -310,6 +310,42 @@
     </property>
     <property name="text">
      <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;img src=&quot;:/First Party/C:/Users/Administrator/Downloads/First Party.jpg&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_11">
+    <property name="geometry">
+     <rect>
+      <x>60</x>
+      <y>870</y>
+      <width>1021</width>
+      <height>101</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;img src=&quot;:/Second Party/C:/Users/Administrator/Downloads/Second Party.jpg&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_12">
+    <property name="geometry">
+     <rect>
+      <x>70</x>
+      <y>1000</y>
+      <width>301</width>
+      <height>151</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;img src=&quot;:/Robot/C:/Users/Administrator/Downloads/Robot.jpg&quot;/&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+   </widget>
+   <widget class="QPlainTextEdit" name="plainTextEdit_5">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>1160</y>
+      <width>251</width>
+      <height>31</height>
+     </rect>
     </property>
    </widget>
   </widget>
