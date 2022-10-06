@@ -295,6 +295,9 @@
       <height>1571</height>
      </rect>
     </property>
+    <property name="autoFillBackground">
+     <bool>true</bool>
+    </property>
     <property name="orientation">
      <enum>Qt::Vertical</enum>
     </property>
