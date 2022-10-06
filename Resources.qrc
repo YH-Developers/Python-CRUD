@@ -1,26 +1,23 @@
 <RCC>
-  <qresource prefix="Progress Bar">
-    <file>C:/Users/Administrator/Downloads/WhatsApp Image 2022-10-06 at 02.55.46.jpg</file>
-  </qresource>
-  <qresource prefix="Robot">
-    <file>C:/Users/Administrator/Downloads/Robot.jpg</file>
+  <qresource prefix="Bar">
+    <file>Bar.jpg</file>
   </qresource>
   <qresource prefix="Description">
-    <file>C:/Users/Administrator/Downloads/Description.jpg</file>
+    <file>Description.jpg</file>
   </qresource>
-  <qresource prefix="Second Party">
-    <file>C:/Users/Administrator/Downloads/Second Party.jpg</file>
+  <qresource prefix="Robot Check">
+    <file>Robot.jpg</file>
+  </qresource>
+  <qresource prefix="Second party">
+    <file>Second Party.jpg</file>
   </qresource>
   <qresource prefix="First Party">
-    <file>C:/Users/Administrator/Downloads/First Party.jpg</file>
+    <file>First Party.jpg</file>
   </qresource>
-  <qresource prefix="Agent Info">
-    <file>C:/Users/Administrator/Downloads/Agent Info.jpg</file>
+  <qresource prefix="Agent">
+    <file>Agent Info.jpg</file>
   </qresource>
-  <qresource prefix="Challan Details">
-    <file>C:/Users/Administrator/Downloads/Challan Details.jpg</file>
-  </qresource>
-  <qresource prefix="Front ">
-    <file>C:/Users/Administrator/Downloads/front.jpg</file>
+  <qresource prefix="Logo">
+    <file>front.jpg</file>
   </qresource>
 </RCC>
