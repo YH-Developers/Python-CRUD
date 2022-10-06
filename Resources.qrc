@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="Progress Bar">
+    <file>C:/Users/Administrator/Downloads/WhatsApp Image 2022-10-06 at 02.55.46.jpg</file>
+  </qresource>
+  <qresource prefix="First Party">
+    <file>C:/Users/Administrator/Downloads/First Party.jpg</file>
+  </qresource>
+  <qresource prefix="Agent Info">
+    <file>C:/Users/Administrator/Downloads/Agent Info.jpg</file>
+  </qresource>
+  <qresource prefix="Challan Details">
+    <file>C:/Users/Administrator/Downloads/Challan Details.jpg</file>
+  </qresource>
+  <qresource prefix="Front ">
+    <file>C:/Users/Administrator/Downloads/front.jpg</file>
+  </qresource>
+</RCC>
